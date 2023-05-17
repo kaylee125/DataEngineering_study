@@ -21,8 +21,8 @@ host = 'search-netflix-es-ns672rvwguyves2c6fch72ryqq.ap-northeast-2.es.amazonaws
 region = 'ap-northeast-2'
 
 # AWS 인증 정보
-aws_access_key = 'AKIAXWZU627FGHR5TZLI'
-aws_secret_access_key = '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'
+aws_access_key = ''
+aws_secret_access_key = ''
 
 #aws_session_token = '<aws_session_token>'
 
